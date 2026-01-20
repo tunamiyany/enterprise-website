@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品中心",
+    "applications": "应用领域",
+    "about": "关于我们",
+    "news": "新闻动态",
+    "contact": "联系我们",
+    "admin": "后台管理"
+  },
+  "home": {
+    "hero": {
+      "title": "热缩管生产制造专家",
+      "subtitle": "专业生产各类热缩管、绝缘材料，为全球客户提供优质产品和服务"
+    },
+    "about": {
+      "title": "关于我们",
+      "content": "我们专注于热缩管及绝缘材料的研发、生产和销售，拥有先进的生产设备和专业的技术团队。产品广泛应用于电线电缆、汽车、电子、石化等多个行业领域。",
+      "viewMore": "了解更多"
+    },
+    "applications": {
+      "title": "应用领域"
+    },
+    "newProducts": {
+      "title": "新品推荐"
+    },
+    "partners": {
+      "title": "合作伙伴"
+    },
+    "branches": {
+      "title": "分支机构",
+      "content": "在台湾、日本、泰国、越南和中国设有分支机构，提供快速的产品配送和即时服务。",
+      "contactUs": "联系我们"
+    }
+  },
+  "products": {
+    "title": "产品中心",
+    "home": "首页",
+    "categories": "产品分类",
+    "allProducts": "全部产品",
+    "searchPlaceholder": "搜索产品名称或编号...",
+    "productsFound": "个产品",
+    "noProducts": "未找到相关产品",
+    "viewDetail": "查看详情"
+  },
+  "productDetail": {
+    "home": "首页",
+    "products": "产品中心",
+    "productCode": "产品编号",
+    "specifications": "产品规格",
+    "features": "产品特性",
+    "applications": "应用场景",
+    "certifications": "认证证书",
+    "inquiry": "产品询价",
+    "downloadSpec": "下载规格书",
+    "callUs": "电话咨询",
+    "relatedProducts": "相关产品",
+    "notFound": "产品未找到",
+    "backToProducts": "返回产品列表"
+  },
+  "admin": {
+    "title": "后台管理",
+    "dashboard": "控制面板",
+    "products": "产品管理",
+    "categories": "分类管理",
+    "banners": "轮播图管理",
+    "applications": "应用领域",
+    "partners": "合作伙伴",
+    "users": "用户管理",
+    "settings": "系统设置",
+    "logout": "退出登录",
+    "welcome": "欢迎回来",
+    "totalProducts": "产品总数",
+    "totalCategories": "分类总数",
+    "totalViews": "总访问量",
+    "recentProducts": "最近添加的产品",
+    "addProduct": "添加产品",
+    "editProduct": "编辑产品",
+    "deleteConfirm": "确定要删除吗？",
+    "saveSuccess": "保存成功",
+    "deleteSuccess": "删除成功"
+  },
+  "footer": {
+    "company": "公司信息",
+    "phone": "电话",
+    "email": "邮箱",
+    "address": "地址",
+    "copyright": "版权所有"
+  },
+  "search": {
+    "title": "搜索结果",
+    "placeholder": "搜索产品...",
+    "noResults": "未找到相关结果",
+    "resultsFor": "搜索结果"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出错了",
+    "success": "成功",
+    "confirm": "确认",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "add": "添加"
+  }
+}

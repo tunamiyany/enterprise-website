@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "applications": "Applications",
+    "about": "About Us",
+    "news": "News",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Heat Shrink Tubing Manufacturing Expert",
+      "subtitle": "Professional manufacturer of heat shrink tubing and insulation materials, providing quality products and services to global customers"
+    },
+    "about": {
+      "title": "About Us",
+      "content": "We specialize in R&D, production and sales of heat shrink tubing and insulation materials, with advanced production equipment and professional technical team. Our products are widely used in wire and cable, automotive, electronics, petrochemical and other industries.",
+      "viewMore": "View More"
+    },
+    "applications": {
+      "title": "Applications"
+    },
+    "newProducts": {
+      "title": "New Products"
+    },
+    "partners": {
+      "title": "Our Partners"
+    },
+    "branches": {
+      "title": "Branches",
+      "content": "With branches in Taiwan, Japan, Thailand, Vietnam and China, providing fast product delivery and instant services.",
+      "contactUs": "Contact Us"
+    }
+  },
+  "products": {
+    "title": "Products",
+    "home": "Home",
+    "categories": "Categories",
+    "allProducts": "All Products",
+    "searchPlaceholder": "Search by name or code...",
+    "productsFound": "products found",
+    "noProducts": "No products found",
+    "viewDetail": "View Details"
+  },
+  "productDetail": {
+    "home": "Home",
+    "products": "Products",
+    "productCode": "Product Code",
+    "specifications": "Specifications",
+    "features": "Features",
+    "applications": "Applications",
+    "certifications": "Certifications",
+    "inquiry": "Inquiry",
+    "downloadSpec": "Download Spec",
+    "callUs": "Call Us",
+    "relatedProducts": "Related Products",
+    "notFound": "Product Not Found",
+    "backToProducts": "Back to Products"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "categories": "Categories",
+    "banners": "Banners",
+    "applications": "Applications",
+    "partners": "Partners",
+    "users": "Users",
+    "settings": "Settings",
+    "logout": "Logout",
+    "welcome": "Welcome back",
+    "totalProducts": "Total Products",
+    "totalCategories": "Total Categories",
+    "totalViews": "Total Views",
+    "recentProducts": "Recent Products",
+    "addProduct": "Add Product",
+    "editProduct": "Edit Product",
+    "deleteConfirm": "Are you sure to delete?",
+    "saveSuccess": "Saved successfully",
+    "deleteSuccess": "Deleted successfully"
+  },
+  "footer": {
+    "company": "Company Info",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "copyright": "All Rights Reserved"
+  },
+  "search": {
+    "title": "Search Results",
+    "placeholder": "Search products...",
+    "noResults": "No results found",
+    "resultsFor": "Results for"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add"
+  }
+}
